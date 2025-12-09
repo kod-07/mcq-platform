@@ -1,22 +1,22 @@
 // Week Wise Imports
-import week1 from '../../json/week wise/week1.json';
-import week2 from '../../json/week wise/week2.json';
-import week3 from '../../json/week wise/week3.json';
-import week4 from '../../json/week wise/week4.json';
-import week5 from '../../json/week wise/week5.json';
-import week6 from '../../json/week wise/week6.json';
-import week7 from '../../json/week wise/week7.json';
-import week8 from '../../json/week wise/week8.json';
+import week1 from '../../json/WeekWise/week1.json';
+import week2 from '../../json/WeekWise/week2.json';
+import week3 from '../../json/WeekWise/week3.json';
+import week4 from '../../json/WeekWise/week4.json';
+import week5 from '../../json/WeekWise/week5.json';
+import week6 from '../../json/WeekWise/week6.json';
+import week7 from '../../json/WeekWise/week7.json';
+import week8 from '../../json/WeekWise/week8.json';
 
 // Class Work Imports
-import class1 from '../../json/Class work/W1.json';
-import class2 from '../../json/Class work/W2.json';
-import class3 from '../../json/Class work/W3.json';
-import class4 from '../../json/Class work/W4.json';
-import class5 from '../../json/Class work/W5.json';
-import class6 from '../../json/Class work/W6.json';
-import class7 from '../../json/Class work/W7.json';
-import class8 from '../../json/Class work/W8.json';
+import class1 from '../../json/ClassWork/W1.json';
+import class2 from '../../json/ClassWork/W2.json';
+import class3 from '../../json/ClassWork/W3.json';
+import class4 from '../../json/ClassWork/W4.json';
+import class5 from '../../json/ClassWork/W5.json';
+import class6 from '../../json/ClassWork/W6.json';
+import class7 from '../../json/ClassWork/W7.json';
+import class8 from '../../json/ClassWork/W8.json';
 
 // Helper to normalize data
 const processFiles = (files, prefix) => {

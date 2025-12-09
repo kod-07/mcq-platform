@@ -2,6 +2,7 @@
   "name": "mcq-platform",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kod-07.github.io/mcq-platform/",
   "type": "module",
   "scripts": {
     "dev": "vite",
