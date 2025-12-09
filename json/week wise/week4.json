@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "The Education instilled moral and ethical values such as (A) truthfulness, righteousness, compassion, non-violence and social responsibility, (B) fostering harmonious relationships within families, communities, and society at large.",
+    "options": [
+      "Only (A)",
+      "Only (B)",
+      "Both (A) and (B)",
+      "Neither (A) nor (B)"
+    ],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "id": 2,
+    "question": "The Inner Transformation is:",
+    "options": [
+      "Through practices such as conflict education encouraged introspection, self-awareness, and the cultivation of inner virtues, leading to personal transformation and fulfilment.",
+      "Through practices such as meditation, self-discipline, and philosophical inquiry, education encouraged introspection, self-awareness, and the cultivation of inner virtues, leading to personal transformation and fulfilment.",
+      "Through not practicing introspection, self-awareness, and the non-cultivation of inner virtues, leading to personal transformation and fulfilment.",
+      "Through practices such as non-inquiry, education encouraged disparity and the cultivation of unethical virtues, leading to personal transformation and fulfilment."
+    ],
+    "answer": "Through practices such as meditation, self-discipline, and philosophical inquiry, education encouraged introspection, self-awareness, and the cultivation of inner virtues, leading to personal transformation and fulfilment."
+  },
+  {
+    "id": 3,
+    "question": "Which statement is true:",
+    "options": [
+      "Education prepared individuals for conflicting roles in, imparting noethics, politics, and unmanaged statecraft.",
+      "Education prepared individuals for non-leadership roles in governance, administration, and public service, imparting knowledge of ethics, law, politics, diplomacy, and statecraft.",
+      "Education prepared individuals for leadership roles in governance, administration, and public service, imparting knowledge of ethics, law, politics, diplomacy, and statecraft.",
+      "Education prepared individuals for leadership roles in governance, administration, and public service, imparting knowledge of ethics, law, politics, diplomacy, and statecraft."
+    ],
+    "answer": "Education prepared individuals for leadership roles in governance, administration, and public service, imparting knowledge of ethics, law, politics, diplomacy, and statecraft."
+  },
+  {
+    "id": 4,
+    "question": "Good Governance implies: (i) Educated rulers and administrators were expected to govern with wisdom, justice, and compassion, (ii) promoting the welfare and prosperity of their subjects (iii) ensuring social order and stability.",
+    "options": [
+      "Only (i)",
+      "Only (ii)",
+      "(i), (ii) and (iii)",
+      "(ii) and (iii)"
+    ],
+    "answer": "(i), (ii) and (iii)"
+  },
+  {
+    "id": 5,
+    "question": "Education facilitated (i) spiritual growth and self-realization, (ii) guiding individuals on the path of spiritual enlightenment (moksha) and (iii) union with the divine (yoga), transcending the cycle of birth and death (samsara).",
+    "options": [
+      "Only i & ii",
+      "Only ii & iii",
+      "Only i & iii",
+      "i, ii and iii"
+    ],
+    "answer": "i, ii and iii"
+  }
+]

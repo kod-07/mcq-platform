@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Bhartrhari distinguishes between different types of sphota:",
+    "options": [
+      "Varņika-sphoța, Padam-sphoța, Vākyanika-sphoța",
+      "Varņaika-sphoța, Padapadam-sphoța, Vākyagika-sphoța",
+      "Varņa-sphoța, Pada-sphoța, Vākya-sphoța",
+      "Varņa-sphoța, Padam-sphoța, Vākyapida-sphoța"
+    ],
+    "answer": "Varņa-sphoța, Pada-sphoța, Vākya-sphoța"
+  },
+  {
+    "id": 2,
+    "question": "In Indian philosophy for analyses of language the following have been used:",
+    "options": [
+      "Only syntactic",
+      "Only semantic",
+      "quantitative, syntactic, semantic, qualitative",
+      "syntactic and semantic"
+    ],
+    "answer": "syntactic and semantic"
+  },
+  {
+    "id": 3,
+    "question": "Various schools of thoughts were",
+    "options": [
+      "Vyākaraņika, Mīmāmsu, Nyāyashrutikan, and Buddhist",
+      "Vyākaraņa, Mīmāņsā, Nyāya, and Buddhist",
+      "Vyāparaņa, Mīmāmsā, Nyāyasukta, and Buddhist",
+      "Vyākaraņama, Nyāya, Aryanakia and Buddhist"
+    ],
+    "answer": "Vyākaraņa, Mīmāņsā, Nyāya, and Buddhist"
+  },
+  {
+    "id": 4,
+    "question": "Read the following statements related to Indian philosophy, (i) sabda or verbal testimony is recognized as a vital pramana, crucial for obtaining knowledge that is beyond the reach of perception and inference. (ii) Different schools provide distinct frameworks for understanding and validating sabda, reflecting their broader epistemological and metaphysical commitments.",
+    "options": [
+      "Only (i) is correct.",
+      "Only (ii) is correct.",
+      "(i) and (ii) are correct.",
+      "Neither (i) nor (ii) are correct."
+    ],
+    "answer": "(i) and (ii) are correct."
+  },
+  {
+    "id": 5,
+    "question": "Elements of Chandas are:",
+    "options": [
+      "Meter, Syllabus, Foot- Line, Caesura, Rhyme",
+      "Meter, Syllable, Foot, Line, Caesura, Rhyme",
+      "Meteorite, Syllabus, Foot, Line, Caesura, Rhyme",
+      "Meteorite, Syllabus, Foot-Line, Caesuraman, Rhyme"
+    ],
+    "answer": "Meter, Syllable, Foot, Line, Caesura, Rhyme"
+  }
+]

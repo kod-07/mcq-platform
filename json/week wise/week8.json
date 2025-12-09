@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "In the context of ancient Indian thought, Anivishiki is often grouped with four branches of knowledge (vidyas) considered essential for a ruler. These branches are:",
+    "options": [
+      "Anivishiki, Trayee, Varta, Dandaniti",
+      "Anivishikum, Tyagee, Vartavidushi, Dandaniti",
+      "Anivishiki, Trayee, Vartavidushi, Dandaniti",
+      "Anivishiki, Tyagee, Vartavidushi, Dandaniti"
+    ],
+    "answer": "Anivishiki, Trayee, Varta, Dandaniti"
+  },
+  {
+    "id": 2,
+    "question": "Read the following statement about Vedanta Philosophy: (i) Vedantaexplores consciousness as fundamental to reality itself. (ii) It posits that the ultimate reality (Brahman) is pure consciousness (chit) and that individual consciousness (atman) is essentially identical to Brahman. (iii) This non-dualistic view suggests that understanding one's true nature leads to realizing the unity of consciousness with the universal.",
+    "options": [
+      "Only (i) and (iii) are correct.",
+      "(i), (ii) and (iii) are correct.",
+      "only (iii) is correct.",
+      "Only (i) and (ii) are correct."
+    ],
+    "answer": "(i), (ii) and (iii) are correct."
+  },
+  {
+    "id": 3,
+    "question": "Ethical Governance and Rulershipin Manusmriti: \"Having fully controlled his own senses, he should seek to subdue his foes; a king who has subdued his own senses is fit to subdue his foes.\"",
+    "options": [
+      "This emphasizes the importance of self-control and unethical behavior for a ruler. A king who masters his own senses and desires is better equipped to govern justly and effectively.",
+      "This emphasizes the importance of non-self-control and ethical behavior for a ruler. A king who masters his own senses and desires is better equipped to govern justly and effectively.",
+      "This emphasizes the importance of self-control and ethical behavior for a ruler. A king who masters his own senses and desires is better equipped to govern justly and effectively.",
+      "This emphasizes the importance of self-control and ethical behavior for a ruler. A king who masters others senses and desires is better equipped to govern unjustly."
+    ],
+    "answer": "This emphasizes the importance of self-control and ethical behavior for a ruler. A king who masters his own senses and desires is better equipped to govern justly and effectively."
+  },
+  {
+    "id": 4,
+    "question": "Logic and Reasoning in Decision Making in Manusmriti: \"Among these, the highest authority is the Veda, next the tradition and virtuous conduct of those who know the Veda, and after that, the customs of holy men.\"",
+    "options": [
+      "This suggests a hierarchical approach to sources of authority, with the Bhagwad being paramount.",
+      "This suggests a hierarchical approach to sources of authority, with the Aranyaks being paramount.",
+      "This suggests a hierarchical approach to sources of authority, with the tantras being paramount",
+      "This suggests a hierarchical approach to sources of authority, with the Vedas being paramount."
+    ],
+    "answer": "This suggests a hierarchical approach to sources of authority, with the Vedas being paramount."
+  },
+  {
+    "id": 5,
+    "question": "Philosophical Inquiry and Understanding as per Manusmriti 4.178: \"He who desires to reach the highest goal must study the Veda with great care; the knowledge of the Veda is said to be the supreme wealth of a Brahmana.\"",
+    "options": [
+      "This highlights the value placed on philosophical and unethical knowledge.",
+      "This highlights the value placed on non-philosophical and spiritual knowledge.",
+      "This highlights the value placed on non-philosophical and unspiritual knowledge.",
+      "This highlights the value placed on philosophical and spiritual knowledge."
+    ],
+    "answer": "This highlights the value placed on philosophical and spiritual knowledge."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The term Prakriti in Indian thought represents:",
+    "options": [
+      "A) Consciousness",
+      "B) Matter or Nature",
+      "C) Soul",
+      "D) Knowledge"
+    ],
+    "answer": "Matter or Nature"
+  },
+  {
+    "id": 2,
+    "question": "Purusha is interpreted as:",
+    "options": [
+      "A) Ego",
+      "B) Physical body",
+      "C) Pure consciousness",
+      "D) Mind"
+    ],
+    "answer": "Pure consciousness"
+  },
+  {
+    "id": 3,
+    "question": "The three Gunas—Sattva, Rajas, and Tamas—represent:",
+    "options": [
+      "A) The three forms of energy",
+      "B) Qualities of Nature",
+      "C) States of consciousness",
+      "D) Types of knowledge"
+    ],
+    "answer": "Qualities of Nature"
+  },
+  {
+    "id": 4,
+    "question": "Rita in Vedic philosophy means:",
+    "options": [
+      "A) Law of morality",
+      "B) Cosmic order or universal law",
+      "C) Ritual duty",
+      "D) Devotion"
+    ],
+    "answer": "Cosmic order or universal law"
+  },
+  {
+    "id": 5,
+    "question": "Sanatana Dharma refers to:",
+    "options": [
+      "A) Hindu law code",
+      "B) Eternal way of righteous living",
+      "C) Regional religion",
+      "D) Cultural diversity"
+    ],
+    "answer": "Eternal way of righteous living"
+  },
+  {
+    "id": 6,
+    "question": "The phrase Vasudhaiva Kutumbakam means:",
+    "options": [
+      "A) World is one family",
+      "B) Truth alone triumphs",
+      "C) Self is supreme",
+      "D) Knowledge is divine"
+    ],
+    "answer": "World is one family"
+  },
+  {
+    "id": 7,
+    "question": "The Indian worldview sees all existence as:",
+    "options": [
+      "A) Mechanistic",
+      "B) Atomistic",
+      "C) Interconnected and holistic",
+      "D) Random"
+    ],
+    "answer": "Interconnected and holistic"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following philosophies is dualistic in nature?",
+    "options": [
+      "A) Advaita Vedanta",
+      "B) Samkhya",
+      "C) Buddhism",
+      "D) Charvaka"
+    ],
+    "answer": "Samkhya"
+  },
+  {
+    "id": 9,
+    "question": "Dharma in Indian philosophy primarily denotes:",
+    "options": [
+      "A) Wealth",
+      "B) Duty and righteousness",
+      "C) Desire",
+      "D) Liberation"
+    ],
+    "answer": "Duty and righteousness"
+  },
+  {
+    "id": 10,
+    "question": "Karma signifies:",
+    "options": [
+      "A) Fate",
+      "B) Action and its consequence",
+      "C) Devotion",
+      "D) Knowledge"
+    ],
+    "answer": "Action and its consequence"
+  },
+  {
+    "id": 11,
+    "question": "The Bhagavad Gita harmonizes:",
+    "options": [
+      "A) Jnana, Bhakti, and Karma Yoga",
+      "B) Science and technology",
+      "C) Politics and economics",
+      "D) Meditation and medicine"
+    ],
+    "answer": "Jnana, Bhakti, and Karma Yoga"
+  },
+  {
+    "id": 12,
+    "question": "The Constructivist approach in IKS emphasizes:",
+    "options": [
+      "A) Mechanical learning",
+      "B) Passive reception",
+      "C) Building understanding from experience",
+      "D) Blind memorization"
+    ],
+    "answer": "Building understanding from experience"
+  },
+  {
+    "id": 13,
+    "question": "Ahimsa is a core ethical value emphasized by:",
+    "options": [
+      "A) Jainism and Buddhism",
+      "B) Nyaya",
+      "C) Mimamsa",
+      "D) Charvaka"
+    ],
+    "answer": "Jainism and Buddhism"
+  },
+  {
+    "id": 14,
+    "question": "The Panchamahabhutas are:",
+    "options": [
+      "A) Five moral virtues",
+      "B) Five elements of nature",
+      "C) Five sacred texts",
+      "D) Five senses"
+    ],
+    "answer": "Five elements of nature"
+  },
+  {
+    "id": 15,
+    "question": "Indian knowledge traditions emphasize balance between:",
+    "options": [
+      "A) Science and commerce",
+      "B) Inner and outer development",
+      "C) Competition and isolation",
+      "D) Power and control"
+    ],
+    "answer": "Inner and outer development"
+  },
+  {
+    "id": 16,
+    "question": "The concept of Atman = Brahman belongs to:",
+    "options": [
+      "A) Charvaka",
+      "B) Advaita Vedanta",
+      "C) Buddhism",
+      "D) Jainism"
+    ],
+    "answer": "Advaita Vedanta"
+  },
+  {
+    "id": 17,
+    "question": "The Gurukula system promoted:",
+    "options": [
+      "A) Teacher-centered rote learning",
+      "B) Integral education combining knowledge and ethics",
+      "C) Digital education",
+      "D) Trade skills only"
+    ],
+    "answer": "Integral education combining knowledge and ethics"
+  },
+  {
+    "id": 18,
+    "question": "Samsara refers to:",
+    "options": [
+      "A) Cycle of birth and rebirth",
+      "B) Liberation",
+      "C) Ignorance",
+      "D) Duty"
+    ],
+    "answer": "Cycle of birth and rebirth"
+  },
+  {
+    "id": 19,
+    "question": "The goal of human life as per Indian tradition is:",
+    "options": [
+      "A) Competition",
+      "B) Moksha",
+      "C) Power",
+      "D) Fame"
+    ],
+    "answer": "Moksha"
+  },
+  {
+    "id": 20,
+    "question": "Holistic development in Indian tradition includes:",
+    "options": [
+      "A) Only intellectual growth",
+      "B) Physical, mental, spiritual harmony",
+      "C) Economic and political strength",
+      "D) None of these"
+    ],
+    "answer": "Physical, mental, spiritual harmony"
+  },
+  {
+    "id": 21,
+    "question": "Epistemology is the study of:",
+    "options": [
+      "A) Being",
+      "B) Knowledge and its sources",
+      "C) Morality",
+      "D) Religion"
+    ],
+    "answer": "Knowledge and its sources"
+  },
+  {
+    "id": 22,
+    "question": "The term Pramana means:",
+    "options": [
+      "A) Object of knowledge",
+      "B) Source or means of valid knowledge",
+      "C) Error in cognition",
+      "D) False perception"
+    ],
+    "answer": "Source or means of valid knowledge"
+  },
+  {
+    "id": 23,
+    "question": "Pratyaksha is:",
+    "options": [
+      "A) Inference",
+      "B) Direct perception",
+      "C) Comparison",
+      "D) Testimony"
+    ],
+    "answer": "Direct perception"
+  },
+  {
+    "id": 24,
+    "question": "Anumana is the process of:",
+    "options": [
+      "A) Guessing",
+      "B) Logical inference",
+      "C) Analogy",
+      "D) Memory"
+    ],
+    "answer": "Logical inference"
+  },
+  {
+    "id": 25,
+    "question": "Upamana means knowledge through:",
+    "options": [
+      "A) Comparison or analogy",
+      "B) Scriptural text",
+      "C) Intuition",
+      "D) Dream"
+    ],
+    "answer": "Comparison or analogy"
+  },
+  {
+    "id": 26,
+    "question": "Shabda Pramana refers to:",
+    "options": [
+      "A) Testimony of trustworthy authority",
+      "B) Experiment",
+      "C) Introspection",
+      "D) Empirical perception"
+    ],
+    "answer": "Testimony of trustworthy authority"
+  },
+  {
+    "id": 27,
+    "question": "Arthapatti is knowledge gained through:",
+    "options": [
+      "A) Postulation or presumption",
+      "B) Perception",
+      "C) Illusion",
+      "D) Inference"
+    ],
+    "answer": "Postulation or presumption"
+  },
+  {
+    "id": 28,
+    "question": "Anupalabdhi denotes:",
+    "options": [
+      "A) Absence or non-perception as a source of knowledge",
+      "B) Logical proof",
+      "C) Intuitive realization",
+      "D) Comparison"
+    ],
+    "answer": "Absence or non-perception as a source of knowledge"
+  },
+  {
+    "id": 29,
+    "question": "Charvaka recognizes which Pramana?",
+    "options": [
+      "A) Perception only",
+      "B) Perception and inference",
+      "C) Inference and testimony",
+      "D) All six"
+    ],
+    "answer": "Perception only"
+  },
+  {
+    "id": 30,
+    "question": "Nyaya system accepts how many Pramanas?",
+    "options": [
+      "A) Two",
+      "B) Four",
+      "C) Six",
+      "D) Three"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": 31,
+    "question": "Mimamsa primarily accepts:",
+    "options": [
+      "A) Testimony of the Vedas as ultimate knowledge",
+      "B) Observation only",
+      "C) Doubt as method",
+      "D) None"
+    ],
+    "answer": "Testimony of the Vedas as ultimate knowledge"
+  },
+  {
+    "id": 32,
+    "question": "Avidya is:",
+    "options": [
+      "A) True knowledge",
+      "B) Ignorance or false cognition",
+      "C) Divine vision",
+      "D) Dream"
+    ],
+    "answer": "Ignorance or false cognition"
+  },
+  {
+    "id": 33,
+    "question": "In Buddhist epistemology, knowledge is considered:",
+    "options": [
+      "A) Eternal",
+      "B) Momentary and impermanent",
+      "C) Absolute",
+      "D) Independent of experience"
+    ],
+    "answer": "Momentary and impermanent"
+  },
+  {
+    "id": 34,
+    "question": "The Prameya refers to:",
+    "options": [
+      "A) Object of valid knowledge",
+      "B) Means of action",
+      "C) Illusion",
+      "D) Cause of ignorance"
+    ],
+    "answer": "Object of valid knowledge"
+  },
+  {
+    "id": 35,
+    "question": "The Indian epistemological approach is primarily:",
+    "options": [
+      "A) Empirical and experiential",
+      "B) Materialistic only",
+      "C) Abstract and speculative",
+      "D) Skeptical"
+    ],
+    "answer": "Empirical and experiential"
+  },
+  {
+    "id": 36,
+    "question": "Prama denotes:",
+    "options": [
+      "A) Illusion",
+      "B) True or valid knowledge",
+      "C) Doubt",
+      "D) False cognition"
+    ],
+    "answer": "True or valid knowledge"
+  },
+  {
+    "id": 37,
+    "question": "Viparyaya in Yoga Sutras means:",
+    "options": [
+      "A) Correct cognition",
+      "B) False knowledge",
+      "C) Imagination",
+      "D) Memory"
+    ],
+    "answer": "False knowledge"
+  },
+  {
+    "id": 38,
+    "question": "Tarka refers to:",
+    "options": [
+      "A) Logical reasoning and debate",
+      "B) Emotional reaction",
+      "C) Faith",
+      "D) Ritual"
+    ],
+    "answer": "Logical reasoning and debate"
+  },
+  {
+    "id": 39,
+    "question": "According to IKS, knowledge is constructed through:",
+    "options": [
+      "A) Sensory and rational experience integrated with inner intuition",
+      "B) Only observation",
+      "C) Only memorization",
+      "D) Guesswork"
+    ],
+    "answer": "Sensory and rational experience integrated with inner intuition"
+  },
+  {
+    "id": 40,
+    "question": "Shraddha in knowledge acquisition stands for:",
+    "options": [
+      "A) Unquestioned obedience",
+      "B) Deep faith and receptivity",
+      "C) Blind belief",
+      "D) Ignorance"
+    ],
+    "answer": "Deep faith and receptivity"
+  },
+  {
+    "id": 41,
+    "question": "Para Vidya means:",
+    "options": [
+      "A) Higher spiritual knowledge",
+      "B) Secular education",
+      "C) Scientific reasoning",
+      "D) Artistic skill"
+    ],
+    "answer": "Higher spiritual knowledge"
+  },
+  {
+    "id": 42,
+    "question": "Apara Vidya refers to:",
+    "options": [
+      "A) Material or worldly knowledge",
+      "B) Divine knowledge",
+      "C) Intuitive knowledge",
+      "D) Liberation"
+    ],
+    "answer": "Material or worldly knowledge"
+  },
+  {
+    "id": 43,
+    "question": "Knowledge in Indian thought is classified mainly as:",
+    "options": [
+      "A) Practical and theoretical",
+      "B) Para and Apara",
+      "C) Natural and artificial",
+      "D) Logical and emotional"
+    ],
+    "answer": "Para and Apara"
+  },
+  {
+    "id": 44,
+    "question": "Shastra denotes:",
+    "options": [
+      "A) Scriptural or systematic knowledge discipline",
+      "B) Myth",
+      "C) Ritual practice",
+      "D) Moral code"
+    ],
+    "answer": "Scriptural or systematic knowledge discipline"
+  },
+  {
+    "id": 45,
+    "question": "Smriti literature includes:",
+    "options": [
+      "A) Epics and Dharma Shastras",
+      "B) Vedas",
+      "C) Upanishads",
+      "D) Sutras"
+    ],
+    "answer": "Epics and Dharma Shastras"
+  },
+  {
+    "id": 46,
+    "question": "Shruti refers to:",
+    "options": [
+      "A) Heard knowledge—Vedas and Upanishads",
+      "B) Remembered stories",
+      "C) Commentary",
+      "D) Folk songs"
+    ],
+    "answer": "Heard knowledge—Vedas and Upanishads"
+  },
+  {
+    "id": 47,
+    "question": "Itihasa in the Indian framework includes:",
+    "options": [
+      "A) Ramayana and Mahabharata",
+      "B) Vedas",
+      "C) Grammar texts",
+      "D) Logic works"
+    ],
+    "answer": "Ramayana and Mahabharata"
+  },
+  {
+    "id": 48,
+    "question": "The Six Vedangas assist in:",
+    "options": [
+      "A) Understanding the Vedas",
+      "B) Architecture",
+      "C) Politics",
+      "D) Agriculture"
+    ],
+    "answer": "Understanding the Vedas"
+  },
+  {
+    "id": 49,
+    "question": "The Panchakosha doctrine describes:",
+    "options": [
+      "A) Five sheaths of human existence",
+      "B) Five planets",
+      "C) Five rituals",
+      "D) Five philosophies"
+    ],
+    "answer": "Five sheaths of human existence"
+  },
+  {
+    "id": 50,
+    "question": "The ultimate purpose of all knowledge, according to Indian epistemology, is:",
+    "options": [
+      "A) Social recognition",
+      "B) Liberation (Moksha)",
+      "C) Wealth accumulation",
+      "D) Scientific progress"
+    ],
+    "answer": "Liberation (Moksha)"
+  }
+]

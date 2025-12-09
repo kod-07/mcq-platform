@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The term Nakshatra refers to:",
+    "options": [
+      "A) Planet",
+      "B) Lunar mansion or constellation",
+      "C) Star cluster",
+      "D) Zodiac sign"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "The word Jyotisha in Sanskrit means:",
+    "options": [
+      "A) Light or illumination",
+      "B) Astrology only",
+      "C) Science of heavenly bodies",
+      "D) Mathematics"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "The Vedanga Jyotisha is associated with:",
+    "options": [
+      "A) Astronomy and calendar system",
+      "B) Medicine",
+      "C) Architecture",
+      "D) Ethics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "The Siddhantic period of Indian astronomy began with:",
+    "options": [
+      "A) Aryabhata",
+      "B) Varahamihira",
+      "C) Bhaskara I",
+      "D) Lagadha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Aryabhatiya was authored by:",
+    "options": [
+      "A) Brahmagupta",
+      "B) Aryabhata",
+      "C) Varahamihira",
+      "D) Bhaskara II"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "The Surya Siddhanta is a:",
+    "options": [
+      "A) Medical treatise",
+      "B) Mathematical treatise",
+      "C) Foundational text on astronomy",
+      "D) Epic poem"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "The Jantar Mantar at Jaipur was built by:",
+    "options": [
+      "A) Raja Jai Singh II",
+      "B) Ashoka",
+      "C) Akbar",
+      "D) Chandragupta"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "The purpose of Jantar Mantar was:",
+    "options": [
+      "A) Religious worship",
+      "B) Astronomical observations",
+      "C) Astrology teaching",
+      "D) Military planning"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "The Indian calendar system is known as:",
+    "options": [
+      "A) Panchanga",
+      "B) Gregorian",
+      "C) Solar-Lunar",
+      "D) Vikram Samvat"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Panchanga literally means:",
+    "options": [
+      "A) Five limbs or parts",
+      "B) Five planets",
+      "C) Five directions",
+      "D) Five elements"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "The five components of Panchanga are:",
+    "options": [
+      "A) Tithi, Vara, Nakshatra, Yoga, Karana",
+      "B) Time, Day, Month, Year, Era",
+      "C) Sun, Moon, Stars, Earth, Planets",
+      "D) Seasons, Months, Weeks, Days, Hours"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "The earliest references to astronomy in India are found in:",
+    "options": [
+      "A) Rigveda",
+      "B) Arthashastra",
+      "C) Manusmriti",
+      "D) Ramayana"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Laghu Bhaskariya and Mahabhaskariya were written by:",
+    "options": [
+      "A) Bhaskara I",
+      "B) Aryabhata",
+      "C) Brahmagupta",
+      "D) Varahamihira"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Brahmasphutasiddhanta is authored by:",
+    "options": [
+      "A) Varahamihira",
+      "B) Aryabhata",
+      "C) Brahmagupta",
+      "D) Bhaskara II"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Varahamihira’s text Pancha-Siddhantika deals with:",
+    "options": [
+      "A) Comparative study of astronomical systems",
+      "B) Ayurvedic medicine",
+      "C) Temple architecture",
+      "D) Algebra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "The term Vastu Shastra refers to:",
+    "options": [
+      "A) Science of life",
+      "B) Science of architecture",
+      "C) Science of astrology",
+      "D) Science of rituals"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Vastu in Sanskrit literally means:",
+    "options": [
+      "A) Energy",
+      "B) Dwelling or building",
+      "C) Measurement",
+      "D) Temple"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Vastupurusha Mandala is a:",
+    "options": [
+      "A) Geometrical design symbolizing cosmic order",
+      "B) Religious text",
+      "C) Star map",
+      "D) Village plan"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "The eight limbs (Ashta Angas) of Vastu include:",
+    "options": [
+      "A) Site, Layout, Foundation, Measurement, Design, Direction, Structure, Ornamentation",
+      "B) Dharma, Artha, Kama, Moksha, Karma, Yoga, Bhakti, Nyaya",
+      "C) Stone, Brick, Wood, Water, Fire, Air, Space, Earth",
+      "D) None"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Arthashastra provides details on:",
+    "options": [
+      "A) Town planning and fortification",
+      "B) Medicine",
+      "C) Music",
+      "D) Education"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "The ancient cities of Mohenjo-Daro and Harappa show early examples of:",
+    "options": [
+      "A) Planned urban design and drainage systems",
+      "B) Military forts",
+      "C) Stepwells",
+      "D) Monasteries"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Vastu Purusha is symbolically depicted as:",
+    "options": [
+      "A) Cosmic man lying within the plan",
+      "B) A divine architect",
+      "C) A temple priest",
+      "D) A scholar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "The primary goal of Vastu is to:",
+    "options": [
+      "A) Harmonize human dwellings with natural energies",
+      "B) Promote trade",
+      "C) Achieve political order",
+      "D) Decorate temples"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "The Garbhagriha in a temple represents:",
+    "options": [
+      "A) Sanctum sanctorum",
+      "B) Assembly hall",
+      "C) Courtyard",
+      "D) Tower"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "The Shikhara in North Indian temples corresponds to:",
+    "options": [
+      "A) Tower above sanctum",
+      "B) Entrance",
+      "C) Foundation",
+      "D) Outer wall"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "The South Indian temple tower is known as:",
+    "options": [
+      "A) Gopuram",
+      "B) Mandapa",
+      "C) Prakara",
+      "D) Garbhagriha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "The Brihadeeswarar Temple is an example of:",
+    "options": [
+      "A) Chola architecture",
+      "B) Pallava architecture",
+      "C) Gupta architecture",
+      "D) Mauryan architecture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Ancient Indian architecture emphasized:",
+    "options": [
+      "A) Symmetry and cosmic harmony",
+      "B) Decoration only",
+      "C) Monumental height",
+      "D) Imported materials"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Town planning principles are discussed in:",
+    "options": [
+      "A) Arthashastra and Manasara",
+      "B) Upanishads only",
+      "C) Mahabharata",
+      "D) Ayurveda"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Environmental sustainability was achieved through:",
+    "options": [
+      "A) Use of local materials and natural ventilation",
+      "B) Concrete structures",
+      "C) Imported stones",
+      "D) Modern machinery"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "The word Ayurveda means:",
+    "options": [
+      "A) Knowledge of life",
+      "B) Knowledge of medicine",
+      "C) Knowledge of herbs",
+      "D) Knowledge of spirit"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "The three doshas in Ayurveda are:",
+    "options": [
+      "A) Vata, Pitta, Kapha",
+      "B) Rajas, Tamas, Sattva",
+      "C) Prana, Tejas, Ojas",
+      "D) Vayu, Agni, Jala"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "The Charaka Samhita is a classical text on:",
+    "options": [
+      "A) Medicine and diagnosis",
+      "B) Surgery",
+      "C) Architecture",
+      "D) Astronomy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "The Sushruta Samhita is mainly about:",
+    "options": [
+      "A) Surgery and medical instruments",
+      "B) Yoga",
+      "C) Astrology",
+      "D) Ayurveda diet"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "The Ashtanga Hridaya was authored by:",
+    "options": [
+      "A) Vagbhata",
+      "B) Charaka",
+      "C) Sushruta",
+      "D) Patanjali"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Yukti in Ayurveda refers to:",
+    "options": [
+      "A) Rational method or reasoning in diagnosis",
+      "B) Prayer",
+      "C) Intuition",
+      "D) Faith healing"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "Ayurveda recognizes health as balance between:",
+    "options": [
+      "A) Body, Mind, and Spirit",
+      "B) Diet and exercise",
+      "C) Wealth and work",
+      "D) Karma and Dharma"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "The aim of Ayurveda is:",
+    "options": [
+      "A) To prevent and cure diseases",
+      "B) To expand kingdoms",
+      "C) To study stars",
+      "D) To teach arts"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Ancient Ayurvedic physicians were known as:",
+    "options": [
+      "A) Vaidyas",
+      "B) Gurus",
+      "C) Rishis",
+      "D) Yajnikas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Sushruta is considered the father of:",
+    "options": [
+      "A) Surgery",
+      "B) Botany",
+      "C) Philosophy",
+      "D) Astrology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Krishi Vigyan refers to:",
+    "options": [
+      "A) Agricultural science",
+      "B) Astrology",
+      "C) Warfare",
+      "D) Economics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "The Arthashastra classifies land according to:",
+    "options": [
+      "A) Fertility and irrigation potential",
+      "B) Religious use",
+      "C) Ownership",
+      "D) Population"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "The importance of agriculture in Vedic texts is reflected in:",
+    "options": [
+      "A) Ritual offerings and hymns",
+      "B) Trade records",
+      "C) Wars",
+      "D) Architecture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "The term Kshetra denotes:",
+    "options": [
+      "A) Field or cultivated land",
+      "B) Temple",
+      "C) Water source",
+      "D) Forest"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "The responsibility of agricultural management rested with:",
+    "options": [
+      "A) King and his officials",
+      "B) Farmers’ guilds",
+      "C) Priests",
+      "D) Merchants"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "Kautilya’s Arthashastra emphasizes:",
+    "options": [
+      "A) Taxation and irrigation for prosperity",
+      "B) Poetry",
+      "C) Education",
+      "D) Warfare only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Vrikshayurveda deals with:",
+    "options": [
+      "A) Plant life and agriculture",
+      "B) Animal husbandry",
+      "C) Yoga",
+      "D) Surgery"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "The author of Vrikshayurveda is:",
+    "options": [
+      "A) Surapala",
+      "B) Charaka",
+      "C) Aryabhata",
+      "D) Varahamihira"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "The revenue from agriculture formed:",
+    "options": [
+      "A) Major source of state income",
+      "B) Minor income",
+      "C) Religious endowment",
+      "D) None"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Agriculture in ancient India was viewed as:",
+    "options": [
+      "A) A sacred duty and livelihood",
+      "B) A mechanical task",
+      "C) Foreign concept",
+      "D) Only for priests"
+    ],
+    "answer": "A"
+  }
+]

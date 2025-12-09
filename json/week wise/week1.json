@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "The crafts that are created using fire are called as:",
+    "options": [
+      "Pyrotechnology",
+      "Non- Pyrotechnology",
+      "Metallurgy",
+      "Thermal Technology"
+    ],
+    "answer": "Pyrotechnology"
+  },
+  {
+    "id": 2,
+    "question": "The Key Concepts in Upanishads include:",
+    "options": [
+      "Brahman, Maya, Karma and Reincarnation, Moksha",
+      "Brahman, Atman, Maya, Karma and Reincarnation, Moksha",
+      "Brahman, Atman, Karma and Reincarnation, Moksha",
+      "Brahman, Atman, Maya, Karma and Reincarnation"
+    ],
+    "answer": "Brahman, Atman, Maya, Karma and Reincarnation, Moksha"
+  },
+  {
+    "id": 3,
+    "question": "The CORRECT sequence of Harappan Civilization is:",
+    "options": [
+      "Decline and Transformation; Formative; Urbanization and Peak.",
+      "Formative; Urbanization and Peak; Decline and Transformation.",
+      "Urbanization and Peak; Formative; Decline and Transformation.",
+      "Decline and Transformation; Urbanization and Peak; Formative."
+    ],
+    "answer": "Formative; Urbanization and Peak; Decline and Transformation."
+  },
+  {
+    "id": 4,
+    "question": "Match the Yuga:",
+    "options": [
+      "1-iii; 2-ii; 3-iv; 4-i",
+      "1-ii; 2-i; 3-iii; 4-iv",
+      "1-i; 2-ii; 3-iii; 4-iv",
+      "1-iv; 2-i; 3-iii; 4-ii"
+    ],
+    "answer": "1-iii; 2-ii; 3-iv; 4-i"
+  },
+  {
+    "id": 5,
+    "question": "Indian civilization uniquely integrates:",
+    "options": [
+      "linear perceptions only",
+      "cyclic perceptions only",
+      "both cyclic and linear perceptions of time",
+      "non Linear"
+    ],
+    "answer": "both cyclic and linear perceptions of time"
+  },
+  {
+    "id": 6,
+    "question": "The passes in Northern Mountain Passes",
+    "options": [
+      "The passes in Northern Mountain Passes",
+      "Khyser pass, Goomali pass, Boolean pass",
+      "Khymer pass, Golam pass, Google pass",
+      "Bolan pass, Khyber pass, Gomal pass"
+    ],
+    "answer": "Bolan pass, Khyber pass, Gomal pass"
+  },
+  {
+    "id": 7,
+    "question": "The Indo-Gangetic Plain contains:",
+    "options": [
+      "The perennial supply of water to the rivers primarily comes from glaciers in the northern mountains.",
+      "The perennial supply of water to the rivers primarily comes from valley in the northern mountains.",
+      "The perennial supply of water to the rivers primarily comes from deserts in the northern mountains.",
+      "The perennial supply of water to the rivers primarily comes from plains in the northern mountains."
+    ],
+    "answer": "The perennial supply of water to the rivers primarily comes from glaciers in the northern mountains."
+  },
+  {
+    "id": 8,
+    "question": "The periods in IKS History are:",
+    "options": [
+      "Vedic Period, Upanishadic Period, Classical Period only",
+      "Vedic Period, Upanishadic Period, Classical Period, Medieval Period, Colonial Period, Post-Independence Era",
+      "Classical Period, Medieval Period, Colonial Period only",
+      "Vedic Period, Upanishadic Period, Classical Period, Medieval Period, Colonial Period only"
+    ],
+    "answer": "Vedic Period, Upanishadic Period, Classical Period, Medieval Period, Colonial Period, Post-Independence Era"
+  },
+  {
+    "id": 9,
+    "question": "The Vedas are divided into four main texts:",
+    "options": [
+      "Rup Veda, Soma Veda, Yamar Veda, Atharva Veda",
+      "Rog Veda, Soma Veda, Yamar Veda, Atharva Veda",
+      "Rk Veda, Sama Veda, Yajur Veda, Atharva Veda",
+      "Soma Veda, Yamar Veda, Atharva Veda"
+    ],
+    "answer": "Rk Veda, Sama Veda, Yajur Veda, Atharva Veda"
+  },
+  {
+    "id": 10,
+    "question": "Varna system comprised of",
+    "options": [
+      "Pirots, warriors, merchants/farmers, and labourers.",
+      "Priests, warriors, non-productive, and labourers.",
+      "Priests, wisers , merchants/farmers, and labourers.",
+      "Priests , warriors, merchants/farmers, and labourers."
+    ],
+    "answer": "Priests , warriors, merchants/farmers, and labourers."
+  }
+]

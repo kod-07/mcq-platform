@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "1. The concept of nakshatras (lunar mansions) was developed (i) The sky was divided into 27 (later 28) nakshatras (ii) each associated with specific stars or constellations",
+    "options": [
+      "Only (ii) is correct",
+      "Only (i) is correct",
+      "(i) and (ii) both are correct",
+      "Neither (i) and nor (ii) are correct"
+    ],
+    "answer": "(i) and (ii) both are correct"
+  },
+  {
+    "id": 2,
+    "question": "The statements about Surya Siddhanta are: (i) one of the foundational texts of Indian astronomy, (ii) provides detailed mathematical models for the motion of celestial bodies (iii) describes various astronomical instruments.",
+    "options": [
+      "Only (i) and (ii) are correct.",
+      "Only (ii) and (iii) are correct.",
+      "Only (i) and (iii) are correct.",
+      "(i), (ii) and (iii) are correct."
+    ],
+    "answer": "(i), (ii) and (iii) are correct."
+  },
+  {
+    "id": 3,
+    "question": "Read following statements about Aryabhata's Contributions: (i) Heliocentric Model... (ii) Accurate Calculations... (iii) Aryabhatiya...",
+    "options": [
+      "Only (i) and (ii) are correct.",
+      "Only (i) and (iii) are correct.",
+      "Only (iii) is correct.",
+      "(i), (ii) and (iii) are correct."
+    ],
+    "answer": "(i), (ii) and (iii) are correct."
+  },
+  {
+    "id": 4,
+    "question": "For the Residential Areas in Ancient India",
+    "options": [
+      "The inner city should house the royal family and administrative offices and the outer areas should be reserved for merchants, artisans, and commoners.",
+      "The inner city should house the merchants, artisans, commoners and the outer areas should be reserved for royal family.",
+      "The inner city and the outer areas had no discrimination.",
+      "The inner city should house the merchants, artisans, and commoners and the outer areas should be reserved for administrative offices."
+    ],
+    "answer": "The inner city should house the royal family and administrative offices and the outer areas should be reserved for merchants, artisans, and commoners."
+  },
+  {
+    "id": 5,
+    "question": "Read the following statements about Indus Valley Civilization: (i) Grid Pattern... (ii) Advanced Drainage Systems... (iii) Public and Private Wells... (iv) Standardized Building Materials...",
+    "options": [
+      "Only (iv) is correct.",
+      "Only (ii) and (iv) are correct.",
+      "Only (i) and (ii) are correct.",
+      "(i), (ii), (iii) and (iv) are correct."
+    ],
+    "answer": "(i), (ii), (iii) and (iv) are correct."
+  }
+]

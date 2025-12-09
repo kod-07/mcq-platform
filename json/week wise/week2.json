@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "question": "In all discussions on Indian knowledge system in this unit, three terms are closely intertwined. They are",
+    "options": [
+      "darshana, gyan, and vidya",
+      "gyan, swarup, atman",
+      "brahman, gyan, parlok",
+      "prabhu, aatma, dristhi"
+    ],
+    "answer": "darshana, gyan, and vidya"
+  },
+  {
+    "id": 2,
+    "question": "The entire body of knowledge is divided into two sets in Mundak upanishad. They are:",
+    "options": [
+      "Aapara and param",
+      "Parth and para",
+      "Para and apara",
+      "para and empara"
+    ],
+    "answer": "Para and apara"
+  },
+  {
+    "id": 3,
+    "question": "\"In the context of an oral culture, knowledge is predominantly stored in the mind rather than external media\" the mentioned statement about Indian knowledge system is",
+    "options": [
+      "Incorrect",
+      "Correct",
+      "Irrelevant",
+      "not mentioned anywhere"
+    ],
+    "answer": "Correct"
+  },
+  {
+    "id": 4,
+    "question": "The four-point reference system allows:",
+    "options": [
+      "the identification of statements down to the unspecific sutra and ekarika, facilitating recall and transmission.",
+      "the identification of statements down to the specific sutra (aphorism) and karika (verse), facilitating accurate recall and transmission.",
+      "the identification of statements down to the specific episutra and karika (verse), facilitating accurate recall and transmission.",
+      "the identification of statements down to the specific sutra and karika, not facilitating recall."
+    ],
+    "answer": "the identification of statements down to the specific sūtra (aphorism) and kārika (verse), facilitating accurate recall and transmission."
+  },
+  {
+    "id": 5,
+    "question": "\"Pramanas are the tools or instruments through which knowledge is acquired, validated, and understood \"this statement is",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": 6,
+    "question": "Logical and rational inquiry",
+    "options": [
+      "emphasizes the use of analysis, and critical thinking only",
+      "emphasizes the use of reason, analysis only",
+      "emphasizes the misuse of reason, analysis, and critical thinking to understand and validate knowledge.",
+      "emphasizes the use of reason, analysis, and critical thinking to understand and validate knowledge."
+    ],
+    "answer": "emphasizes the use of reason, analysis, and critical thinking to understand and validate knowledge."
+  },
+  {
+    "id": 7,
+    "question": "Interconnected aspect of the Vaisesika ontology include,",
+    "options": [
+      "Attributes and action",
+      "Action and reaction",
+      "Deeds and karma",
+      "Karma and action"
+    ],
+    "answer": "Attributes and action"
+  },
+  {
+    "id": 8,
+    "question": "Pramana refers to: 1. \"pramana\" refers to the means or sources of valid knowledge... 2. These pramanas serve as epistemological tools...",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 both",
+      "none"
+    ],
+    "answer": "1 and 2 both"
+  },
+  {
+    "id": 9,
+    "question": "Samasya Refers to: 1. Samsaya\" refers to doubt or uncertainty... 2. Samsaya represents a state of mental confusion...",
+    "options": [
+      "1 and 2",
+      "1 only",
+      "2 only",
+      "none"
+    ],
+    "answer": "1 and 2"
+  },
+  {
+    "id": 10,
+    "question": "The Nyäya school of philosophy focuses on:",
+    "options": [
+      "Logic only",
+      "logic and epistemology",
+      "epistemology only",
+      "none of them"
+    ],
+    "answer": "Logic only"
+  }
+]

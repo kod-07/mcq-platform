@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The Harappan Civilization flourished during which period?",
+    "options": [
+      "a) 3000–2500 BCE",
+      "b) 2600–1900 BCE",
+      "c) 1500–1000 BCE",
+      "d) 6000–4000 BCE"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "The formative stage of the Harappan Civilization is known as:",
+    "options": [
+      "a) Mature Harappan",
+      "b) Late Harappan",
+      "c) Early Harappan",
+      "d) Pre-Vedic"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "The Late Harappan phase lasted approximately between:",
+    "options": [
+      "a) 3000–2000 BCE",
+      "b) 1900–1500 BCE",
+      "c) 2600–1900 BCE",
+      "d) 7000–5000 BCE"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which site provides evidence for the native origin of the Harappan Civilization?",
+    "options": [
+      "a) Lothal",
+      "b) Mehergarh",
+      "c) Dholavira",
+      "d) Rakhigarhi"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Harappan Civilization is contemporary with which of the following?",
+    "options": [
+      "a) Chinese Civilization",
+      "b) Mesopotamian and Egyptian Civilizations",
+      "c) Greek Civilization",
+      "d) Mayan Civilization"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Pyrotechnology in the Harappan period involved which of the following?",
+    "options": [
+      "a) Pottery and metallurgy",
+      "b) Agriculture",
+      "c) Wood carving",
+      "d) Shell making"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following was NOT a Harappan craft?",
+    "options": [
+      "a) Bead-making",
+      "b) Pottery",
+      "c) Papermaking",
+      "d) Metalwork"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "The Harappan script remains:",
+    "options": [
+      "a) Fully deciphered",
+      "b) Partly understood",
+      "c) Undeciphered",
+      "d) Lost completely"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "Which period saw the rise of major Harappan urban centers like Mohenjodaro and Harappa?",
+    "options": [
+      "a) Early Harappan",
+      "b) Mature Harappan",
+      "c) Late Harappan",
+      "d) Post-Vedic"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "A key feature of Harappan towns was:",
+    "options": [
+      "a) Absence of drainage system",
+      "b) Organic street layout",
+      "c) Grid-based urban planning",
+      "d) Lack of public buildings"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 11,
+    "question": "The Mahayuga in Indian cosmology spans how many years?",
+    "options": [
+      "a) 4,320 years",
+      "b) 432,000 years",
+      "c) 4,320,000 years",
+      "d) 43,200,000 years"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 12,
+    "question": "The Kali Yuga is believed to have begun in:",
+    "options": [
+      "a) 5000 BCE",
+      "b) 3102 BCE",
+      "c) 1200 BCE",
+      "d) 200 CE"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "The cyclic concept of time is primarily described in which ancient texts?",
+    "options": [
+      "a) Arthashastra",
+      "b) Mahabharata and Vishnu Purana",
+      "c) Ramayana and Upanishads",
+      "d) Jataka tales"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "The bull of Dharma losing one leg each Yuga symbolizes:",
+    "options": [
+      "a) Material prosperity",
+      "b) Decline of moral values",
+      "c) Increase in wisdom",
+      "d) Rise of empires"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "The linear concept of time in Indian traditions is reflected in:",
+    "options": [
+      "a) Yugas",
+      "b) Dynastic genealogies",
+      "c) Planetary cycles",
+      "d) Ritual calendars"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "The Indian subcontinent was once part of which supercontinent?",
+    "options": [
+      "a) Pangaea",
+      "b) Gondwanaland",
+      "c) Laurasia",
+      "d) Panthalassa"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "The Himalayan range was formed due to:",
+    "options": [
+      "a) Volcanic eruptions",
+      "b) Sedimentation",
+      "c) Tectonic collisions",
+      "d) Glacial movement"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 18,
+    "question": "The fertile northern plains of India were formed by:",
+    "options": [
+      "a) Lava deposits",
+      "b) Sediment from the Himalayas",
+      "c) Wind erosion",
+      "d) Oceanic activity"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Integration of peripheral regions into the Indian cultural mainstream occurred significantly during the:",
+    "options": [
+      "a) Mauryan period",
+      "b) Gupta period",
+      "c) Mughal period",
+      "d) British period"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "The cultural influence of ancient India reached as far as:",
+    "options": [
+      "a) Africa",
+      "b) Europe",
+      "c) Southeast Asia",
+      "d) East America"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 21,
+    "question": "The Khyber Pass connects India with:",
+    "options": [
+      "a) Nepal",
+      "b) Sri Lanka",
+      "c) Afghanistan",
+      "d) Myanmar"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 22,
+    "question": "The Bolan Pass was historically important for:",
+    "options": [
+      "a) River transport",
+      "b) Early pastoral and trade movements",
+      "c) Buddhist pilgrimage",
+      "d) Colonial expansion only"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 23,
+    "question": "The Swat Valley is linked with the route of:",
+    "options": [
+      "a) Ashoka",
+      "b) Alexander the Great",
+      "c) Buddha",
+      "d) Chandragupta"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "The Indo-Gangetic Plain owes its fertility mainly to:",
+    "options": [
+      "a) Lava soil",
+      "b) Alluvial deposits",
+      "c) Desert winds",
+      "d) Oceanic influence"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "The Thar Desert lies in which part of India?",
+    "options": [
+      "a) East",
+      "b) West",
+      "c) North",
+      "d) South"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "The Deccan Plateau is bounded by which two mountain ranges?",
+    "options": [
+      "a) Himalayas and Vindhyas",
+      "b) Aravallis and Satpura",
+      "c) Western and Eastern Ghats",
+      "d) Karakoram and Nilgiris"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 27,
+    "question": "The Western Ghats are known for:",
+    "options": [
+      "a) Desert landscape",
+      "b) Dense biodiversity",
+      "c) Lack of rainfall",
+      "d) Volcanic activity"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "The river Godavari is:",
+    "options": [
+      "a) Glacier-fed",
+      "b) Rain-fed",
+      "c) Snow-melt dependent",
+      "d) Underground-fed"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "Muziris, an ancient port, was located in:",
+    "options": [
+      "a) Tamil Nadu",
+      "b) Kerala",
+      "c) Odisha",
+      "d) Gujarat"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "The Chola Empire extended its influence up to:",
+    "options": [
+      "a) Central Asia",
+      "b) Southeast Asia",
+      "c) Western Europe",
+      "d) Arabian Peninsula"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "In early India, boundaries were primarily defined by:",
+    "options": [
+      "a) Latitude and longitude",
+      "b) Natural features like rivers and mountains",
+      "c) Written treaties",
+      "d) Fort walls"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Pilgrimage sites in ancient India were known as:",
+    "options": [
+      "a) Mandapas",
+      "b) Tirthas",
+      "c) Stupas",
+      "d) Sanghas"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "Sanskrit spread across North India mainly due to:",
+    "options": [
+      "a) Traders",
+      "b) Ruling dynasties’ patronage",
+      "c) Buddhist missionaries",
+      "d) Commoners"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Emperor Ashoka promoted which infrastructure development?",
+    "options": [
+      "a) Temples",
+      "b) Rest-houses and wells along highways",
+      "c) Forts",
+      "d) Mines"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "The main means of bulk transport in early India was:",
+    "options": [
+      "a) Animal carts",
+      "b) Water transport",
+      "c) Palanquins",
+      "d) Airships"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "Timber from which tree was used in shipbuilding?",
+    "options": [
+      "a) Teak",
+      "b) Banyan",
+      "c) Neem",
+      "d) Peepal"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 37,
+    "question": "The southwest monsoon winds were used for:",
+    "options": [
+      "a) Agriculture only",
+      "b) Maritime navigation",
+      "c) Desert farming",
+      "d) Irrigation canals"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "Monsoon rains mainly occur in India from:",
+    "options": [
+      "a) January–April",
+      "b) June–September",
+      "c) October–December",
+      "d) March–May"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "The northeast monsoon primarily affects:",
+    "options": [
+      "a) Rajasthan",
+      "b) North India",
+      "c) Peninsular and northeastern India",
+      "d) Central India"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 40,
+    "question": "The Himalayas influence India’s climate by:",
+    "options": [
+      "a) Increasing desertification",
+      "b) Blocking cold winds from Central Asia",
+      "c) Allowing monsoon to escape northward",
+      "d) Reducing rainfall"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "The four Varnas of ancient Indian society include all EXCEPT:",
+    "options": [
+      "a) Brahmins",
+      "b) Kshatriyas",
+      "c) Vaishyas",
+      "d) Sufis"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 42,
+    "question": "The Jati system was based primarily on:",
+    "options": [
+      "a) Wealth",
+      "b) Occupation and kinship",
+      "c) Race",
+      "d) Education"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "The Gangetic plains mainly supported:",
+    "options": [
+      "a) Nomadic tribes",
+      "b) Agrarian societies",
+      "c) Pastoralists",
+      "d) Seafarers"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Coastal India was historically important for:",
+    "options": [
+      "a) Warfare",
+      "b) Maritime trade",
+      "c) Mountain agriculture",
+      "d) Desert travel"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 45,
+    "question": "The Maurya Empire reached its peak under:",
+    "options": [
+      "a) Chandragupta",
+      "b) Bindusara",
+      "c) Ashoka",
+      "d) Harsha"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 46,
+    "question": "The Gupta Empire extended up to which river in the northwest?",
+    "options": [
+      "a) Ganges",
+      "b) Indus",
+      "c) Yamuna",
+      "d) Godavari"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "The Varna system’s primary text source is:",
+    "options": [
+      "a) Arthashastra",
+      "b) Manusmriti",
+      "c) Ramayana",
+      "d) Upanishads"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Tribal societies in ancient India were mostly found in:",
+    "options": [
+      "a) Urban centers",
+      "b) Forests and hills",
+      "c) Deserts",
+      "d) River valleys"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 49,
+    "question": "Urban centers like Harappa and Mohenjodaro are examples of:",
+    "options": [
+      "a) Vedic cities",
+      "b) Planned ancient cities",
+      "c) Nomadic settlements",
+      "d) Tribal hamlets"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "The overall essence of Bhartiya Knowledge System emphasizes:",
+    "options": [
+      "a) Materialism",
+      "b) Scientific isolation",
+      "c) Spiritual and scientific integration",
+      "d) Political dominance"
+    ],
+    "answer": "c"
+  }
+]

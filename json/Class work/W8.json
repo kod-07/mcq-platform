@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "question": "The term Chetanā in Indian philosophy refers to:",
+    "options": [
+      "A) Ego",
+      "B) Consciousness",
+      "C) Knowledge",
+      "D) Energy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "The Atman is described in the Upanishads as:",
+    "options": [
+      "A) Body",
+      "B) Soul or pure consciousness",
+      "C) Mind",
+      "D) Ego"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "The Vedic system of knowledge views reality as:",
+    "options": [
+      "A) Consciousness-based",
+      "B) Material-based",
+      "C) Dualistic",
+      "D) Skeptical"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "The Pañchakośa model represents:",
+    "options": [
+      "A) Five layers of human existence",
+      "B) Five senses",
+      "C) Five duties",
+      "D) Five goals"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "The Pañchakośas are mentioned in:",
+    "options": [
+      "A) Taittirīya Upanishad",
+      "B) Rigveda",
+      "C) Samkhya Sutra",
+      "D) Gita"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "The five sheaths include:",
+    "options": [
+      "A) Annamaya, Prāṇamaya, Manomaya, Vijñānamaya, Ānandamaya"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "The Vedic model of mind integrates:",
+    "options": [
+      "A) Body, mind, and consciousness",
+      "B) Emotion and memory",
+      "C) Brain only",
+      "D) Logic only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Manas acts as:",
+    "options": [
+      "A) Coordinator between senses and intellect",
+      "B) Pure consciousness",
+      "C) Emotion",
+      "D) Instinct"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Buddhi represents:",
+    "options": [
+      "A) Intellect and discrimination",
+      "B) Ego",
+      "C) Desire",
+      "D) Energy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Ahaṁkāra refers to:",
+    "options": [
+      "A) Sense of “I” or individuality",
+      "B) Wisdom",
+      "C) Memory",
+      "D) Fear"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Chitta is defined in Yoga Sutras as:",
+    "options": [
+      "A) The storehouse of impressions (Samskaras)",
+      "B) Ego",
+      "C) Perception",
+      "D) None"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "According to IKS, Mind and Consciousness are:",
+    "options": [
+      "A) Interconnected dimensions of self-awareness"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "The four levels of speech in Vedic theory are:",
+    "options": [
+      "A) Para, Pashyantī, Madhyamā, Vaikharī"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "The study of consciousness in IKS aims for:",
+    "options": [
+      "A) Self-realization and universal harmony"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "The holistic Indian model integrates:",
+    "options": [
+      "A) Psychology, physiology, and spirituality"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Anvīkṣikī means:",
+    "options": [
+      "A) Science of logical reasoning and critical inquiry"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Kautilya described Anvīkṣikī as:",
+    "options": [
+      "A) The lamp of all sciences (Sarva-shāstrāṇāṁ Pradīpikā)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "The origin of Anvīkṣikī is traced to:",
+    "options": [
+      "A) Ancient Indian rational inquiry traditions"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Anvīkṣikī was considered the foundation of:",
+    "options": [
+      "A) Philosophy and statecraft",
+      "B) Medicine",
+      "C) Grammar",
+      "D) Art"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "According to Arthashastra, Anvīkṣikī is one among:",
+    "options": [
+      "A) Three main Vidyās – Veda, Anvīkṣikī, Vārtā"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Nyāya philosophy evolved from:",
+    "options": [
+      "A) Anvīkṣikī",
+      "B) Vedānta",
+      "C) Yoga",
+      "D) Tantra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "The core elements of Anvīkṣikī include:",
+    "options": [
+      "A) Pramāṇa (proof), Tarka (logic), and Vāda (debate)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "The purpose of Anvīkṣikī was:",
+    "options": [
+      "A) To test truth through rational discourse"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Texts like Manusmriti and Arthashastra describe Anvīkṣikī as:",
+    "options": [
+      "A) A moral and intellectual discipline"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Torchbearers of Anvīkṣikī include:",
+    "options": [
+      "A) Kautilya, Gautama, and Charvaka"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Rajya in ancient India referred to:",
+    "options": [
+      "A) State or kingdom"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Rajadharma denotes:",
+    "options": [
+      "A) Duties and moral responsibilities of rulers"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Kautilya’s Arthashastra is primarily about:",
+    "options": [
+      "A) Statecraft, administration, and economy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "The Saptanga theory defines:",
+    "options": [
+      "A) Seven limbs of a state"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "The seven limbs include:",
+    "options": [
+      "A) Swami, Amatya, Janapada, Durga, Kosa, Danda, Mitra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Sama, Dana, Bheda, Danda were:",
+    "options": [
+      "A) Four policies of governance and diplomacy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "The core objective of governance was:",
+    "options": [
+      "A) Welfare of people and maintenance of Dharma"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Arthashastra advocates:",
+    "options": [
+      "A) Ethical governance with practical wisdom"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "The King was considered:",
+    "options": [
+      "A) Protector of Dharma and guardian of justice"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Public administration in ancient India was:",
+    "options": [
+      "A) Decentralized and people-centric"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Amatya referred to:",
+    "options": [
+      "A) Minister or administrator"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "The Taxation system in ancient India was:",
+    "options": [
+      "A) Progressive and based on fairness (Bhagabhaga)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Village administration was managed by:",
+    "options": [
+      "A) Panchayat or local councils"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Dandanīti means:",
+    "options": [
+      "A) The science of justice and governance"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Torchbearers in governance include:",
+    "options": [
+      "A) Kautilya, Manu, and Shukra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "The legacy of IKS represents:",
+    "options": [
+      "A) Holistic and sustainable approach to knowledge"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "The Golden Era of IKS is often associated with:",
+    "options": [
+      "A) Gupta Period"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "IKS promotes:",
+    "options": [
+      "A) Integration of science, philosophy, and ethics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "The way forward in IKS aims at:",
+    "options": [
+      "A) Re-establishing cultural and scientific synergy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "IKS integration in education is important for:",
+    "options": [
+      "A) Building value-based and innovative learning"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "The mechanism to integrate IKS includes:",
+    "options": [
+      "A) Curriculum, research, and teacher training"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Paradigm shift through IKS implies:",
+    "options": [
+      "A) From fragmented to holistic worldview"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "UNESCO’s sustainable development goals align with:",
+    "options": [
+      "A) IKS principles of ecological balance and ethics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Future explorations of IKS focus on:",
+    "options": [
+      "A) Interdisciplinary and applied research"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "The ultimate vision of IKS is:",
+    "options": [
+      "A) “Vasudhaiva Kutumbakam” – One Earth, One Family"
+    ],
+    "answer": "A"
+  }
+]

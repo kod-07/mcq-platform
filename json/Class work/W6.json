@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "question": "The earliest evidence of iron use in India dates to the:",
+    "options": [
+      "A) 2nd century CE",
+      "B) 1500 BCE",
+      "C) 1000 BCE",
+      "D) 500 CE"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "The Delhi Iron Pillar is famous for:",
+    "options": [
+      "A) Magnetic properties",
+      "B) Resistance to corrosion",
+      "C) Ornamentation",
+      "D) Engravings only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "The technique of lost-wax casting was used for:",
+    "options": [
+      "A) Idol making and bronzes",
+      "B) Weapons",
+      "C) Jewellery only",
+      "D) Coins"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Zawar mines in Rajasthan were known for extraction of:",
+    "options": [
+      "A) Iron",
+      "B) Zinc",
+      "C) Copper",
+      "D) Gold"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Kolar mines were known for:",
+    "options": [
+      "A) Gold",
+      "B) Iron",
+      "C) Zinc",
+      "D) Lead"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Rasaratna Samuccaya and Rasarnava are classical texts on:",
+    "options": [
+      "A) Alchemy and metallurgy",
+      "B) Medicine",
+      "C) Astronomy",
+      "D) Architecture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Wootz steel from India was famous for:",
+    "options": [
+      "A) Sword-making quality",
+      "B) Agricultural tools",
+      "C) Soft texture",
+      "D) Bronze casting"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "The term Rasa-Vijnana refers to:",
+    "options": [
+      "A) Chemical science in ancient India",
+      "B) Astrology",
+      "C) Mathematics",
+      "D) Logic"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "The torchbearer of ancient Indian iron metallurgy was:",
+    "options": [
+      "A) Maharaja Jai Singh",
+      "B) Acharya Nagarjuna",
+      "C) Charaka",
+      "D) Aryabhata"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "The zinc distillation process discovered at Zawar predates similar European methods by about:",
+    "options": [
+      "A) 500 years",
+      "B) 1000 years",
+      "C) 2000 years",
+      "D) 300 years"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "The earliest known use of zero as a numeral was in:",
+    "options": [
+      "A) Bakhshali manuscript",
+      "B) Rigveda",
+      "C) Arthashastra",
+      "D) Mahabharata"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "The decimal place-value system originated in:",
+    "options": [
+      "A) China",
+      "B) India",
+      "C) Greece",
+      "D) Egypt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "The Sulba Sutras are associated with:",
+    "options": [
+      "A) Geometry for altar construction",
+      "B) Music theory",
+      "C) Medicine",
+      "D) Astronomy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Aryabhata introduced the concept of:",
+    "options": [
+      "A) Zero",
+      "B) Pi ≈ 3.1416",
+      "C) Algebraic symbols",
+      "D) Binary arithmetic"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Brahmagupta contributed to:",
+    "options": [
+      "A) Rules for zero and negative numbers",
+      "B) Trigonometry only",
+      "C) Metallurgy",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Bhaskara II’s major work is:",
+    "options": [
+      "A) Lilavati",
+      "B) Siddhanta Shiromani",
+      "C) Both A and B",
+      "D) Aryabhatiya"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Lilavati deals primarily with:",
+    "options": [
+      "A) Arithmetic and algebra",
+      "B) Geometry",
+      "C) Astronomy",
+      "D) Astrology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Indian mathematician Pingala introduced:",
+    "options": [
+      "A) Binary number system in Chandaḥ Shastra",
+      "B) Decimal expansion",
+      "C) Calculus",
+      "D) Zero"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Varahamihira contributed to:",
+    "options": [
+      "A) Trigonometry and astronomy",
+      "B) Chemistry",
+      "C) Botany",
+      "D) Logic"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Magic squares and combinatorial patterns appear in:",
+    "options": [
+      "A) Chandaḥ Shastra",
+      "B) Rigveda",
+      "C) Lilavati",
+      "D) Kamasutra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "The science of military studies in ancient India was called:",
+    "options": [
+      "A) Dhanurveda",
+      "B) Ayurveda",
+      "C) Vastushastra",
+      "D) Kautilya Sastra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Dhanurveda is one of the:",
+    "options": [
+      "A) Upavedas",
+      "B) Vedangas",
+      "C) Aranyakas",
+      "D) Puranas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "The four divisions of ancient Indian armies were called:",
+    "options": [
+      "A) Chaturanga Bala",
+      "B) Triranga Bala",
+      "C) Shatabala",
+      "D) Mahabala"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "The four components of Chaturanga Bala are:",
+    "options": [
+      "A) Infantry, Cavalry, Elephants, Chariots",
+      "B) Soldiers, Ships, Archers, Cannons"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Kautilya’s Arthashastra contains detailed information on:",
+    "options": [
+      "A) War strategy and espionage",
+      "B) Medicine",
+      "C) Education",
+      "D) Astrology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "The training of soldiers included:",
+    "options": [
+      "A) Archery, swordsmanship, horse riding, and wrestling",
+      "B) Only archery",
+      "C) Trade",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Military education was imparted through:",
+    "options": [
+      "A) Gurukula and special institutions",
+      "B) Royal courts only",
+      "C) Temples",
+      "D) Monasteries"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Manusmriti and Mahabharata refer to:",
+    "options": [
+      "A) Ethics of war and conduct (Dharma Yuddha)",
+      "B) Political economy",
+      "C) Alchemy",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Collective training in ancient armies emphasized:",
+    "options": [
+      "A) Coordination and discipline",
+      "B) Individual freedom",
+      "C) Commerce",
+      "D) Rituals"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "The supreme commander of the army was known as:",
+    "options": [
+      "A) Senapati",
+      "B) Rajguru",
+      "C) Mantri",
+      "D) Mahamatya"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Niyuddha refers to:",
+    "options": [
+      "A) Combat or martial art tradition",
+      "B) Music",
+      "C) Ritual dance",
+      "D) Sculpture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Parashurama is associated with:",
+    "options": [
+      "A) Revival and training of warriors in Niyuddha Kala",
+      "B) Ayurveda",
+      "C) Poetry",
+      "D) Astrology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Ancient Indian martial art Kalaripayattu evolved in:",
+    "options": [
+      "A) Kerala",
+      "B) Punjab",
+      "C) Gujarat",
+      "D) Assam"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Mallayuddha was the art of:",
+    "options": [
+      "A) Wrestling",
+      "B) Sword fighting",
+      "C) Archery",
+      "D) Meditation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Dhanurveda includes training in:",
+    "options": [
+      "A) Bow and arrow",
+      "B) Sword and mace",
+      "C) Chariot warfare",
+      "D) All of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "question": "Niyuddha Kala was practiced for:",
+    "options": [
+      "A) Self-defense, discipline, and spiritual growth",
+      "B) Entertainment only",
+      "C) Festivals only",
+      "D) Tax collection"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "Women practitioners of martial arts were known as:",
+    "options": [
+      "A) Veeranganas",
+      "B) Sanyasinis",
+      "C) Kalyanis",
+      "D) Rishikas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "States renowned for ancient martial arts include:",
+    "options": [
+      "A) Kerala, Tamil Nadu, Assam",
+      "B) Gujarat, Bihar",
+      "C) Rajasthan, Kashmir",
+      "D) Bengal, Orissa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "The guiding spirit of Niyuddha emphasized:",
+    "options": [
+      "A) Ethics, restraint, and courage (Ahimsa with Shakti)",
+      "B) Aggression"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Malla Purana is a classical text on:",
+    "options": [
+      "A) Wrestling traditions",
+      "B) Ayurveda",
+      "C) Astrology",
+      "D) Architecture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Ancient Indian environmental thought was based on:",
+    "options": [
+      "A) Harmony between humans and nature",
+      "B) Exploitation of nature"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "The Vedic term Prithvi refers to:",
+    "options": [
+      "A) Earth",
+      "B) Sky",
+      "C) Water",
+      "D) Air"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "The five great elements (Pancha Mahabhuta) are:",
+    "options": [
+      "A) Earth, Water, Fire, Air, Ether",
+      "B) Earth, Moon, Sun, Stars, Space"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "Yajna was seen as:",
+    "options": [
+      "A) Ecological balance through sacred offering",
+      "B) Destruction ritual"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "The deification of rivers and trees symbolized:",
+    "options": [
+      "A) Conservation ethics",
+      "B) Worship rituals only",
+      "C) Trade",
+      "D) Warfare"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "The Atharvaveda contains hymns on:",
+    "options": [
+      "A) Healing and environment",
+      "B) Trade",
+      "C) Music",
+      "D) Dance"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Vayu, Apah, Agni, and Akasha represent:",
+    "options": [
+      "A) Air, Water, Fire, Ether",
+      "B) Stars, Moon, Sun, Earth"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "Ancient Indian kings appointed officers for:",
+    "options": [
+      "A) Forest and wildlife management (Vanapalaka)",
+      "B) Taxation only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "The environmental concept Sarva Bhuta Hita means:",
+    "options": [
+      "A) Welfare of all living beings",
+      "B) Human domination"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "The goal of environmental science in IKS is:",
+    "options": [
+      "A) Sustainable coexistence between life and cosmos",
+      "B) Economic exploitation"
+    ],
+    "answer": "A"
+  }
+]

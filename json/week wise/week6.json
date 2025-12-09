@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Read the following statements about Iron working: (i) Ironworking in India dates back to around 1800 BCE (ii) with evidence of iron artifacts found in archaeological sites such as the Indus Valley Civilization. (iii) Ancient Indian artisans mastered the techniques of smelting iron ore and forging it into various tools, weapons, and artifacts. (iv) Iron was banned to be used in agriculture, warfare, construction, and craftsmanship, leading to significant advancements in productivity and innovation.",
+    "options": [
+      "Only (i) is correct",
+      "Only (ii) and (iii) are correct",
+      "Only (i), (ii) and (iii) are correct.",
+      "(i), (ii), (iii) and (iv) are correct."
+    ],
+    "answer": "Only (i), (ii) and (iii) are correct."
+  },
+  {
+    "id": 2,
+    "question": "The Ancient Indian Army was traditionally divided into four main branches:",
+    "options": [
+      "infantry, cavalry, chariots, and elephants.",
+      "infantry, cavalry, chariots, and lions.",
+      "infantry, cavalry, bullocks , and elephants.",
+      "watchdogs, cavalry, chariots, and elephants."
+    ],
+    "answer": "infantry, cavalry, chariots, and elephants."
+  },
+  {
+    "id": 3,
+    "question": "Read statements regarding the Weaponry and Technology: (i) The ancient Indian arsenal included a wide range of weapons such as bows, arrows, swords, spears, maces, and axes. Each weapon had its techniques and training methods. (ii) Chariots were used for their speed and mobility, while elephants provided a significant psychological advantage and physical power in battle.",
+    "options": [
+      "Only (i) is correct.",
+      "Only (ii) is correct.",
+      "neither (i) and nor (ii) are correct.",
+      "(i) and (ii) both are correct."
+    ],
+    "answer": "(i) and (ii) both are correct."
+  },
+  {
+    "id": 4,
+    "question": "From the given sentences about Bhima, the correct statements are: (i) Bhima was one of the Pandava brothers in the Mahabharata (ii) the most iconic torchbearer of Niyuddha. (iii) Known for his immense strength and combat skills (iv) Bhima was a master of Malla-Yuddha (wrestling)",
+    "options": [
+      "Only (i) and (ii).",
+      "Only (iii)",
+      "Only (ii) and (iv).",
+      "(i), (ii), (iii) and (iv) are correct."
+    ],
+    "answer": "(i), (ii), (iii) and (iv) are correct."
+  },
+  {
+    "id": 5,
+    "question": "For Minning, which one of the the following statement is correct:",
+    "options": [
+      "Mining methods included only shaft mining and open-pit mining, depending on the depth and accessibility of the ore deposits",
+      "Mining methods included surface mining, shaft mining, and open-pit mining, depending on the depth and accessibility of the ore deposits.",
+      "Mining methods included only surface mining and open-pit mining, depending the ore deposits.",
+      "Mining methods included shaft mining, depending on the depth and accessibility of the ore deposits."
+    ],
+    "answer": "Mining methods included surface mining, shaft mining, and open-pit mining, depending on the depth and accessibility of the ore deposits."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The chief aim of the ancient Indian education system was:",
+    "options": [
+      "A) Material prosperity",
+      "B) Self-realization and character building",
+      "C) Industrial training",
+      "D) Political education"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "The medium of instruction in ancient Indian education was primarily:",
+    "options": [
+      "A) Sanskrit",
+      "B) Persian",
+      "C) Prakrit",
+      "D) Pali"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "The word Guru means:",
+    "options": [
+      "A) Preacher",
+      "B) One who dispels darkness of ignorance",
+      "C) Temple priest",
+      "D) Leader"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "The teacher-student relationship in ancient India was based on:",
+    "options": [
+      "A) Contract",
+      "B) Mutual respect and discipline",
+      "C) Government regulation",
+      "D) Examination scores"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "The place of learning in ancient India was called:",
+    "options": [
+      "A) Gurukula",
+      "B) Pathshala",
+      "C) Sabha",
+      "D) Sangha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "The Gurukula system emphasized:",
+    "options": [
+      "A) Holistic personality development",
+      "B) Rote learning",
+      "C) Political education",
+      "D) Competitive exams"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "The main focus of ancient Indian education was on:",
+    "options": [
+      "A) Knowledge and conduct (Jnana and Achara)",
+      "B) Technology",
+      "C) Commerce",
+      "D) Industry"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "The ancient Indian education system was primarily:",
+    "options": [
+      "A) Student-centered and value-oriented",
+      "B) Teacher-centered and mechanical",
+      "C) Textbook-driven",
+      "D) State-controlled"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "The teacher in ancient India was known for:",
+    "options": [
+      "A) Charging high fees",
+      "B) Moral excellence and self-discipline",
+      "C) Business mindset",
+      "D) Political activism"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "The curriculum in Gurukula included:",
+    "options": [
+      "A) Vedas, ethics, arts, and sciences",
+      "B) Only religious studies",
+      "C) Only mathematics",
+      "D) Only politics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Ancient Indian universities like Nalanda and Takshashila were famous for:",
+    "options": [
+      "A) International students and interdisciplinary learning",
+      "B) Political training",
+      "C) Trade guilds",
+      "D) Sports"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Takshashila was known for teaching:",
+    "options": [
+      "A) Medicine, logic, and warfare",
+      "B) Only Vedas",
+      "C) Painting",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Nalanda University was located in:",
+    "options": [
+      "A) Bihar",
+      "B) Gujarat",
+      "C) Tamil Nadu",
+      "D) Odisha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "The Chancellor of Nalanda University was traditionally called:",
+    "options": [
+      "A) Kulapati",
+      "B) Acharya",
+      "C) Rektor",
+      "D) Adhyapak"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "The Buddhist monastic universities emphasized:",
+    "options": [
+      "A) Logic and philosophy",
+      "B) Carpentry",
+      "C) Politics",
+      "D) Warfare"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Women in ancient Indian education:",
+    "options": [
+      "A) Had access to Vedic and fine arts learning",
+      "B) Were banned",
+      "C) Were restricted to domestic tasks",
+      "D) Could only observe"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "The Upanayana ceremony marked:",
+    "options": [
+      "A) Admission to studentship",
+      "B) Marriage",
+      "C) Graduation",
+      "D) Employment"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "The Sanyasi Ashrama in life symbolized:",
+    "options": [
+      "A) Renunciation and spiritual pursuit",
+      "B) Learning stage",
+      "C) Householder duties",
+      "D) Retirement"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "The main duties of a student (Brahmachari) included:",
+    "options": [
+      "A) Obedience, celibacy, and service to teacher",
+      "B) Independent research",
+      "C) Tax collection",
+      "D) Trading"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "The key qualities of a Guru included:",
+    "options": [
+      "A) Self-control, knowledge, and compassion",
+      "B) Political power",
+      "C) Wealth",
+      "D) Popularity"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Panini was a renowned scholar of:",
+    "options": [
+      "A) Grammar",
+      "B) Medicine",
+      "C) Architecture",
+      "D) Astrology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Chanakya was associated with which ancient university?",
+    "options": [
+      "A) Takshashila",
+      "B) Nalanda",
+      "C) Vallabhi",
+      "D) Vikramashila"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Brahmacharya Ashrama was the stage of:",
+    "options": [
+      "A) Education and discipline",
+      "B) Marriage",
+      "C) Business",
+      "D) Politics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Knowledge in ancient India was seen as:",
+    "options": [
+      "A) A means to liberation (Moksha)",
+      "B) Material gain",
+      "C) Military strength",
+      "D) Wealth accumulation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "The Indian system emphasized Paravidya and Aparavidya as:",
+    "options": [
+      "A) Spiritual and worldly knowledge",
+      "B) Science and art",
+      "C) Logic and grammar",
+      "D) None"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Ancient Indian education aimed at:",
+    "options": [
+      "A) Formation of character and inner discipline",
+      "B) Political propaganda",
+      "C) Trade promotion",
+      "D) Industrial growth"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Ancient universities functioned under:",
+    "options": [
+      "A) Monastic or royal patronage",
+      "B) Private corporations",
+      "C) Guilds",
+      "D) State universities"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Education in ancient India was guided by the principle of:",
+    "options": [
+      "A) Dharma (righteousness)",
+      "B) Wealth creation",
+      "C) Competition",
+      "D) Consumerism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "The Ashrama system provided:",
+    "options": [
+      "A) A holistic educational framework",
+      "B) Economic hierarchy",
+      "C) Social exclusion",
+      "D) Religious orthodoxy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "In ancient India, knowledge was transmitted mainly through:",
+    "options": [
+      "A) Oral tradition (Shruti and Smriti)",
+      "B) Written documents",
+      "C) Printed books",
+      "D) Digital media"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Educating Sciences in IKS refers to:",
+    "options": [
+      "A) Integration of knowledge and consciousness",
+      "B) Laboratory science only",
+      "C) Purely empirical methods",
+      "D) Western approach"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Indian science emphasized:",
+    "options": [
+      "A) Qualitative discernment (Buddhi)",
+      "B) Material experimentation alone",
+      "C) Mechanistic reasoning",
+      "D) Data accumulation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "The term Pramana in Indian science means:",
+    "options": [
+      "A) Source of valid knowledge",
+      "B) Hypothesis",
+      "C) Observation only",
+      "D) Argument"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Yukti stands for:",
+    "options": [
+      "A) Logical reasoning and synthesis",
+      "B) Empirical guesswork",
+      "C) Blind faith",
+      "D) Intuition only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Pratyaksha refers to:",
+    "options": [
+      "A) Direct perception",
+      "B) Inference",
+      "C) Comparison",
+      "D) Testimony"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "The aim of Indian science was:",
+    "options": [
+      "A) To harmonize material and spiritual realities",
+      "B) To dominate nature",
+      "C) To maximize profit",
+      "D) To reject philosophy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "The concept of Ground Consciousness in IKS implies:",
+    "options": [
+      "A) All knowledge arises from unified awareness",
+      "B) Dualism of mind and matter",
+      "C) Materialism",
+      "D) Reductionism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Indian sciences considered experience (Anubhava) as:",
+    "options": [
+      "A) Essential for knowledge validation",
+      "B) Unreliable",
+      "C) Inferior to texts",
+      "D) Illusion"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Integration of qualitative discernment means:",
+    "options": [
+      "A) Combining logic and intuition",
+      "B) Separating theory and practice",
+      "C) Pure experimentation",
+      "D) Faith alone"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "The holistic method of Indian scientific thought is known as:",
+    "options": [
+      "A) Integral approach",
+      "B) Empirical materialism",
+      "C) Positivism",
+      "D) Dualism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "The Nyaya system of thought emphasized:",
+    "options": [
+      "A) Logic and reasoning",
+      "B) Devotion",
+      "C) Rituals",
+      "D) Art"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "The Samkhya system provided:",
+    "options": [
+      "A) A scientific basis for cosmology and evolution",
+      "B) Aesthetic theory",
+      "C) Economic planning",
+      "D) Religious law"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "The method of Indian sciences was based on:",
+    "options": [
+      "A) Observation, inference, and testimony",
+      "B) Experiment only",
+      "C) Belief",
+      "D) Guess"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "Indian thought connects science with:",
+    "options": [
+      "A) Ethics and self-awareness",
+      "B) Power",
+      "C) War",
+      "D) Wealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "In IKS, education aims to:",
+    "options": [
+      "A) Balance intellect and intuition",
+      "B) Promote competition",
+      "C) Create wealth",
+      "D) Focus on memorization"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "Knowledge in IKS is validated by:",
+    "options": [
+      "A) Direct experience and logical coherence",
+      "B) Authority alone",
+      "C) Statistics",
+      "D) Popularity"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Ancient Indian scientists used Yantras for:",
+    "options": [
+      "A) Observation and measurement",
+      "B) Warfare",
+      "C) Music",
+      "D) Art"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "The Rational Approach (Yukti) in Ayurveda and sciences shows:",
+    "options": [
+      "A) Cause-effect understanding",
+      "B) Blind belief",
+      "C) Faith-based healing",
+      "D) Religious practice"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "In IKS, education and science are viewed as:",
+    "options": [
+      "A) Complementary paths to truth",
+      "B) Separate disciplines",
+      "C) Political tools",
+      "D) Economic systems"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "The ultimate goal of education and science in IKS is:",
+    "options": [
+      "A) Self-realization and universal harmony",
+      "B) Fame and wealth",
+      "C) Industrial progress",
+      "D) Entertainment"
+    ],
+    "answer": "A"
+  }
+]

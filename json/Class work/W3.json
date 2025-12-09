@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "The earliest known script used in ancient India was:",
+    "options": [
+      "A) Brahmi",
+      "B) Kharosthi",
+      "C) Devanagari",
+      "D) Grantha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "The Kharosthi script was used primarily in:",
+    "options": [
+      "A) Eastern India",
+      "B) Northern India",
+      "C) Northwestern India",
+      "D) Southern India"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "The Brahmi script is considered the ancestor of:",
+    "options": [
+      "A) Latin",
+      "B) Chinese",
+      "C) All major Indian scripts",
+      "D) Arabic"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "The language of most early Indian sacred texts is:",
+    "options": [
+      "A) Tamil",
+      "B) Sanskrit",
+      "C) Prakrit",
+      "D) Pali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Which script was used in the Ashokan inscriptions?",
+    "options": [
+      "A) Devanagari",
+      "B) Brahmi and Kharosthi",
+      "C) Grantha",
+      "D) Nagari"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "“Script” in Sanskrit is called:",
+    "options": [
+      "A) Lipi",
+      "B) Vani",
+      "C) Vakya",
+      "D) Grantha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "The earliest evidence of writing in India belongs to:",
+    "options": [
+      "A) Harappan seals",
+      "B) Mauryan edicts",
+      "C) Gupta inscriptions",
+      "D) Medieval texts"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "The Vedic corpus was originally:",
+    "options": [
+      "A) Written in palm leaves",
+      "B) Transmitted orally",
+      "C) Carved on stone",
+      "D) Engraved on copper"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "The oral transmission of sacred texts was maintained through:",
+    "options": [
+      "A) Printing",
+      "B) Scriptures",
+      "C) Shruti–Smriti tradition",
+      "D) Epics"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "The sacred texts of ancient India are classified as:",
+    "options": [
+      "A) Shruti and Smriti",
+      "B) Sutra and Purana",
+      "C) Veda and Upanishad",
+      "D) Artha and Dharma"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "The Vedas are written in:",
+    "options": [
+      "A) Classical Sanskrit",
+      "B) Vedic Sanskrit",
+      "C) Pali",
+      "D) Prakrit"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "The word “Veda” literally means:",
+    "options": [
+      "A) Law",
+      "B) Knowledge",
+      "C) Duty",
+      "D) Practice"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "How many Vedas are recognized traditionally?",
+    "options": [
+      "A) Three",
+      "B) Four",
+      "C) Five",
+      "D) Seven"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "The Rigveda primarily contains:",
+    "options": [
+      "A) Hymns and praises",
+      "B) Ritual formulae",
+      "C) Music",
+      "D) Magical spells"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "The Yajurveda deals with:",
+    "options": [
+      "A) Philosophical ideas",
+      "B) Rituals and sacrifices",
+      "C) Songs and melodies",
+      "D) Grammar"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "The Samaveda focuses on:",
+    "options": [
+      "A) Music and chants",
+      "B) Healing",
+      "C) Astronomy",
+      "D) Laws"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "The Atharvaveda is known for:",
+    "options": [
+      "A) Hymns to deities",
+      "B) Magic and healing charms",
+      "C) Ritual codes",
+      "D) Military strategies"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The total number of hymns in Rigveda is approximately:",
+    "options": [
+      "A) 1000",
+      "B) 1028",
+      "C) 1200",
+      "D) 1080"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Each Veda consists of four parts — Samhita, Brahmana, Aranyaka, and:",
+    "options": [
+      "A) Sutra",
+      "B) Upanishad",
+      "C) Purana",
+      "D) Smriti"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "The Gayatri Mantra appears in:",
+    "options": [
+      "A) Yajurveda",
+      "B) Rigveda",
+      "C) Atharvaveda",
+      "D) Samaveda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "The word Upanishad means:",
+    "options": [
+      "A) Sitting near the teacher",
+      "B) Story",
+      "C) Ritual",
+      "D) Rule"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "The Upanishads mainly deal with:",
+    "options": [
+      "A) Rituals",
+      "B) Philosophical ideas about Self and Brahman",
+      "C) Grammar",
+      "D) Mythology"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "The Isha Upanishad belongs to which Veda?",
+    "options": [
+      "A) Yajurveda",
+      "B) Rigveda",
+      "C) Samaveda",
+      "D) Atharvaveda"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "The Chandogya and Kena Upanishads belong to:",
+    "options": [
+      "A) Yajurveda",
+      "B) Samaveda",
+      "C) Atharvaveda",
+      "D) Rigveda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "The Brihadaranyaka Upanishad is part of:",
+    "options": [
+      "A) Yajurveda",
+      "B) Atharvaveda",
+      "C) Samaveda",
+      "D) Rigveda"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "The Mandukya Upanishad explains:",
+    "options": [
+      "A) The syllable OM and states of consciousness",
+      "B) Meditation methods",
+      "C) Rituals",
+      "D) Grammar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "The total number of principal Upanishads is traditionally:",
+    "options": [
+      "A) 10",
+      "B) 12",
+      "C) 13",
+      "D) 18"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "The philosophical essence of the Upanishads is called:",
+    "options": [
+      "A) Vedanta",
+      "B) Mimamsa",
+      "C) Nyaya",
+      "D) Samkhya"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "The Taittiriya Upanishad introduces the concept of:",
+    "options": [
+      "A) Panchakosha (five sheaths)",
+      "B) Yoga",
+      "C) Dharma",
+      "D) Rebirth"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "The Upanishadic statement “Tat Tvam Asi” means:",
+    "options": [
+      "A) That Thou Art",
+      "B) Knowledge is Power",
+      "C) Truth Alone Triumphs",
+      "D) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "The two great Indian epics are:",
+    "options": [
+      "A) Ramayana and Mahabharata",
+      "B) Vedas and Upanishads",
+      "C) Puranas and Agamas",
+      "D) Brahmanas and Sutras"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "The Mahabharata was composed by:",
+    "options": [
+      "A) Valmiki",
+      "B) Vyasa",
+      "C) Kalidasa",
+      "D) Panini"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "The Bhagavad Gita is part of:",
+    "options": [
+      "A) Rigveda",
+      "B) Mahabharata",
+      "C) Upanishads",
+      "D) Ramayana"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "The Ramayana was written by:",
+    "options": [
+      "A) Vyasa",
+      "B) Valmiki",
+      "C) Tulsidas",
+      "D) Vishwamitra"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "The Puranas primarily focus on:",
+    "options": [
+      "A) Genealogies and divine stories",
+      "B) Scientific reasoning",
+      "C) Ritual manuals",
+      "D) Grammar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "The Agamas and Tantras are associated mainly with:",
+    "options": [
+      "A) Temple rituals and spiritual practices",
+      "B) Astrology",
+      "C) Poetry",
+      "D) Mathematics"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "The Vishnu Purana primarily teaches:",
+    "options": [
+      "A) Devotion and Dharma",
+      "B) Warfare",
+      "C) Politics",
+      "D) Philosophy of yoga"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "The Shaiva Agamas are related to:",
+    "options": [
+      "A) Lord Shiva worship",
+      "B) Vishnu worship",
+      "C) Jain philosophy",
+      "D) Buddhism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "The Tantras emphasize:",
+    "options": [
+      "A) Union of Shakti and Shiva",
+      "B) Political power",
+      "C) Logic",
+      "D) Asceticism only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "The Mahabharata is also called:",
+    "options": [
+      "A) Fifth Veda",
+      "B) Fourth Veda",
+      "C) Dharma Sutra",
+      "D) Brahmana"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "The term Sutra means:",
+    "options": [
+      "A) Thread or aphorism",
+      "B) Ritual",
+      "C) Poem",
+      "D) Law"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "The Dharmasutras later developed into:",
+    "options": [
+      "A) Smritis",
+      "B) Upanishads",
+      "C) Puranas",
+      "D) Vedas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "The Manusmriti is a:",
+    "options": [
+      "A) Dharma Shastra",
+      "B) Purana",
+      "C) Upanishad",
+      "D) Tantra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "The Yoga Sutras were composed by:",
+    "options": [
+      "A) Patanjali",
+      "B) Kapila",
+      "C) Vyasa",
+      "D) Kanada"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "The Buddhist Tripitaka consists of:",
+    "options": [
+      "A) Vinaya, Sutta, Abhidhamma Pitakas",
+      "B) Rig, Sama, Yajur",
+      "C) Brahmana, Aranyaka, Upanishad",
+      "D) Sutra, Tantra, Purana"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "The Jain Agamas are based on teachings of:",
+    "options": [
+      "A) Mahavira",
+      "B) Buddha",
+      "C) Kapila",
+      "D) Vyasa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "The Dhammapada belongs to which tradition?",
+    "options": [
+      "A) Buddhist",
+      "B) Jain",
+      "C) Vedic",
+      "D) Shaiva"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "The Acharanga Sutra is a sacred text of:",
+    "options": [
+      "A) Jainism",
+      "B) Buddhism",
+      "C) Hinduism",
+      "D) Sikhism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "The impact of sacred texts on Indian civilization was mainly through:",
+    "options": [
+      "A) Ethical and cultural guidance",
+      "B) Warfare",
+      "C) Economic policy",
+      "D) Trade laws"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "The combined spiritual, cultural, and moral knowledge from these texts shaped:",
+    "options": [
+      "A) India’s civilizational identity",
+      "B) Political empire only",
+      "C) Science only",
+      "D) Western philosophy"
+    ],
+    "answer": "A"
+  }
+]

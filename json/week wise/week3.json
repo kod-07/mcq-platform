@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following Vedic literature where the Varna system was discussed?",
+    "options": [
+      "Rigveda",
+      "Samaveda",
+      "Yajurveda",
+      "Atharvaveda"
+    ],
+    "answer": "Rigveda"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following Vedic literature is the collection of sacrificial formulae?",
+    "options": [
+      "Rigveda",
+      "Samaveda",
+      "Yajurveda",
+      "Atharvaveda"
+    ],
+    "answer": "Atharvaveda"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following statement (s) is/are related to the Aranyakas? 1. Written in forests for the hermits and students of the Vedas. 2. Initiated a changeover from materialistic religion to spiritual religion. Hence, they formed a tradition that culminates in the Upanishads.",
+    "options": [
+      "Only A",
+      "Only B",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Both A and B"
+  },
+  {
+    "id": 4,
+    "question": "Match the following: (1) Shiksha (a) Phonetics of Science of Pronunciation; (2) Kalpa (b) Rituals and ceremonies; (3) Nirukta (c) Etymology (Origin of words)",
+    "options": [
+      "(1)-(c); (2)-(b); (3)-(a);",
+      "(1)-(a); (2)-(c); (3)-(b);",
+      "(1)-(a); (2)-(b); (3)-(c);",
+      "(1)-(b); (2)-(c); (3)-(a);"
+    ],
+    "answer": "(1)-(a); (2)-(b); (3)-(c);"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following Vedic literature refers to the 'to sit near the feet of'?",
+    "options": [
+      "Vedangas",
+      "Upanishads",
+      "Aranyakas",
+      "Brahamanas"
+    ],
+    "answer": "Upanishads"
+  }
+]

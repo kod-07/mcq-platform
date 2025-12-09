@@ -1,0 +1,459 @@
+[
+  {
+    "id": 1,
+    "question": "The Sanskrit word Bhāṣā means:",
+    "options": [
+      "A) Sound",
+      "B) Speech or Language",
+      "C) Knowledge",
+      "D) Philosophy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Vyākaraṇa in the Indian context refers to:",
+    "options": [
+      "A) Grammar",
+      "B) Rituals",
+      "C) Dance",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "The oldest surviving text on Sanskrit grammar is:",
+    "options": [
+      "A) Ashtadhyayi",
+      "B) Mahabhashya",
+      "C) Vakyapadiya",
+      "D) Nirukta"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "The author of Ashtadhyayi is:",
+    "options": [
+      "A) Panini",
+      "B) Patanjali",
+      "C) Bhartṛhari",
+      "D) Katyayana"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Mahabhashya was written by:",
+    "options": [
+      "A) Patanjali",
+      "B) Panini",
+      "C) Bhartṛhari",
+      "D) Vararuchi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Bhartṛhari’s seminal work on the philosophy of language is:",
+    "options": [
+      "A) Vakyapadiya",
+      "B) Yogasutra",
+      "C) Mimamsa Sutra",
+      "D) Natyashastra"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "The main concept discussed in Vakyapadiya is:",
+    "options": [
+      "A) The philosophy of the sentence (Vākya) and word (Śabda)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "In Indian philosophy, Śabda is considered:",
+    "options": [
+      "A) A valid source of knowledge (Pramāṇa)",
+      "B) A metaphor",
+      "C) A symbol",
+      "D) An illusion"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Śabdapramāṇa means:",
+    "options": [
+      "A) Verbal testimony",
+      "B) Inference",
+      "C) Direct perception",
+      "D) Comparison"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Pratibhā according to Bhartṛhari is:",
+    "options": [
+      "A) Intuitive flash of understanding",
+      "B) Memory",
+      "C) Logic",
+      "D) Perception"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "The Sphoṭa theory of Bhartṛhari relates to:",
+    "options": [
+      "A) The indivisible unit of meaning in speech"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Sphoṭa is understood as:",
+    "options": [
+      "A) The inner meaning revealed when sound is comprehended as a whole"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Bhartṛhari viewed language as:",
+    "options": [
+      "A) Eternal and the basis of reality (Śabda Brahman)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "The three divisions of Vākyapadīya are called:",
+    "options": [
+      "A) Kāṇḍas",
+      "B) Sargas",
+      "C) Sutras",
+      "D) Padas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "The first Kāṇḍa of Vakyapadiya deals with:",
+    "options": [
+      "A) Brahmakāṇḍa – Language as Ultimate Reality"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "The Ashtadhyayi is composed of:",
+    "options": [
+      "A) Eight chapters",
+      "B) Six parts",
+      "C) Ten books",
+      "D) Seven volumes"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "The Paninian system of grammar is:",
+    "options": [
+      "A) Rule-based and generative",
+      "B) Descriptive only",
+      "C) Poetic",
+      "D) Comparative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "The computational nature of Sanskrit grammar is significant for:",
+    "options": [
+      "A) Natural Language Processing (NLP)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Mnemonics and recursion in Ashtadhyayi represent:",
+    "options": [
+      "A) Memory-efficient encoding of linguistic rules"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Torchbearers of ancient Indian linguistics include:",
+    "options": [
+      "A) Panini, Katyayana, Patanjali, Bhartṛhari"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Chandas means:",
+    "options": [
+      "A) Metre or rhythmic structure of verse",
+      "B) Grammar",
+      "C) Drama",
+      "D) Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "The author of Chandah Sutra is:",
+    "options": [
+      "A) Pingala",
+      "B) Panini",
+      "C) Vararuchi",
+      "D) Kalidasa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Prosody in Indian tradition refers to:",
+    "options": [
+      "A) The study of poetic metres and rhythm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Laghu and Guru denote:",
+    "options": [
+      "A) Light and heavy syllables",
+      "B) Word classes",
+      "C) Accent marks",
+      "D) Musical tones"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "The seven major Sanskrit metres are symbolized by:",
+    "options": [
+      "A) The concept of seven birds"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "The Gana system in prosody helps:",
+    "options": [
+      "A) Group syllables for metrical analysis"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Each Gana consists of:",
+    "options": [
+      "A) Three syllables",
+      "B) Four syllables",
+      "C) Five syllables",
+      "D) Two syllables"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "The mnemonic yamātārājabhānasalagām is used to:",
+    "options": [
+      "A) Remember the names of Ganas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "The Gayatri metre consists of:",
+    "options": [
+      "A) Three lines of eight syllables each"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "The Anushtubh metre has:",
+    "options": [
+      "A) Four lines of eight syllables",
+      "B) Two lines of ten",
+      "C) Sixteen",
+      "D) Twelve"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Trishtubh metre contains:",
+    "options": [
+      "A) 11 syllables per line"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Jagati metre has:",
+    "options": [
+      "A) 12 syllables per line"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Pingala’s Chandah Sutra introduced:",
+    "options": [
+      "A) Binary representation in metrical patterns"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Chandas was considered the:",
+    "options": [
+      "A) Foundation of poetic and Vedic recitation accuracy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Torchbearers of prosody include:",
+    "options": [
+      "A) Pingala, Kedara, Ratnakar, Halayudha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Nāṭyaśāstra is attributed to:",
+    "options": [
+      "A) Sage Bharata Muni",
+      "B) Panini",
+      "C) Charaka",
+      "D) Kalidasa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "Nāṭyaśāstra is also called:",
+    "options": [
+      "A) The fifth Veda",
+      "B) The fourth Upanishad",
+      "C) The first Purana",
+      "D) The third Veda"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "The primary purpose of Nāṭyaśāstra was:",
+    "options": [
+      "A) To teach ethics and aesthetics through drama"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "The concept of Rasa refers to:",
+    "options": [
+      "A) Aesthetic emotion experienced by audience"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "The total number of Rasas mentioned is:",
+    "options": [
+      "A) Nine (Navarasa)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Bhava represents:",
+    "options": [
+      "A) The emotional state that produces Rasa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Nāṭya integrates:",
+    "options": [
+      "A) Drama, Dance, and Music"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "The four aspects of drama are:",
+    "options": [
+      "A) Aharya, Angika, Vachika, Sattvika"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "The ten types of plays (Dasarupaka) include:",
+    "options": [
+      "A) Nataka, Prakarana, Bhana, Vyayoga, etc."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Kalidasa’s plays like Abhijnanasakuntalam are based on:",
+    "options": [
+      "A) Nāṭyaśāstra principles"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "The playhouse (Nāṭya Mandapa) was designed:",
+    "options": [
+      "A) According to sacred architectural principles"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "The Sutradhara in drama is:",
+    "options": [
+      "A) The stage manager and narrator"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "Time and place in drama were defined to:",
+    "options": [
+      "A) Maintain unity of impression"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "The impact of Nāṭyaśāstra on Indian society was:",
+    "options": [
+      "A) Integration of art, morality, and philosophy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Torchbearers inspired by Nāṭyaśāstra include:",
+    "options": [
+      "A) Abhinavagupta, Kalidasa, Bhasa, Dandin"
+    ],
+    "answer": "A"
+  }
+]
